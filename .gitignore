@@ -1,7 +1,2 @@
-#xinfra/*.tar
-#platformt
-.terraform
-.terraform.lock.hcl
-terraform.tfstate
-.DS_Store
-terraform.tfstate.backup
+xinfra/*.tar
+platformt
